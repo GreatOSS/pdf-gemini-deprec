@@ -1,9 +1,12 @@
 # ZephyrPDF
 
+> **Deprecated experiment.** This preserves an earlier implementation and is not part of the final clean $100-per-deployment comparison.
+> [Open this historical app](https://greatoss.github.io/pdf-gemini-deprec/) · [Current Gemini experiment](https://github.com/GreatOSS/pdf-gemini)
+
 > **The Featherlight, Full-Featured Open-Source PDF Viewer & Editor.**  
 > Built for uncompromising speed, flawless user experience, and 100% privacy.
 
-👉 **[Launch Live Web App on GitHub Pages](https://greatpdf.github.io/ZephyrPDF/)** (Zero Install, 100% Client-Side)
+👉 **[Launch Live Web App on GitHub Pages](https://greatoss.github.io/pdf-gemini-deprec/)** (Zero Install, 100% Client-Side)
 
 ---
 
@@ -75,7 +78,7 @@
 ### Installation & Development
 ```bash
 # Clone the repository
-git clone https://github.com/GreatPDF/GreatPDF.git
+git clone https://github.com/GreatOSS/pdf-gemini-deprec.git
 cd GreatPDF
 
 # Install dependencies
